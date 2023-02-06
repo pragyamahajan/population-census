@@ -1,5 +1,7 @@
 # Population-census
-This project throws light on analysis of indian population census from the data collected after 2011 census. The analysis is done on the following grounds-
+This project throws light on analysis of indian population census from the data collected after 2011 census.The analysis is done using two different data sets covering population ,states,districts etc.
+
+The analysis is done on the following grounds-
 1.Finding out total population of India
 2.Finding out average growth for country
 3.Finding out average growth for state
